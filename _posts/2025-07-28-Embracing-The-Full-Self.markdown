@@ -4,7 +4,7 @@ title:  "Welcoming Every Part: The Internal Family at the Table"
 date:   2025-07-28 12:42:43 +0200
 categories: [Toastmasters]
 tags: [Self-help, Psychology, Philosophy]
-description: "I wrote and delivered this speech for a Toastmasters meeting theme: Embracing the Full Self"
+description: "This is one of my Toastmasters speeches, crafted for the meeting theme Embracing Your Full Self. I explore what it means to fully accept every aspect of who I am, sharing a personal narrative that reflects this journey."
 ---
 
 

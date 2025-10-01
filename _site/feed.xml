@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Threaded Mind</title>
   <subtitle>Collection of my thoughts.</subtitle>
-  <updated>2025-10-01T22:28:56+02:00</updated>
+  <updated>2025-10-01T22:37:59+02:00</updated>
   <author>
     <name>Gorazd</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/Peaceful-Parenting/" rel="alternate" type="text/html" title="Peaceful Parenting" />
     <published>2025-08-28T12:42:43+02:00</published>
   
-    <updated>2025-08-28T12:42:43+02:00</updated>
+    <updated>2025-10-01T22:29:27+02:00</updated>
   
     <id>http://localhost:4000/posts/Peaceful-Parenting/</id>
     <content type="text/html" src="http://localhost:4000/posts/Peaceful-Parenting/" />
@@ -48,7 +48,7 @@
     <link href="http://localhost:4000/posts/Embracing-The-Full-Self/" rel="alternate" type="text/html" title="Welcoming Every Part: The Internal Family at the Table" />
     <published>2025-07-28T12:42:43+02:00</published>
   
-    <updated>2025-07-28T12:42:43+02:00</updated>
+    <updated>2025-10-01T22:29:27+02:00</updated>
   
     <id>http://localhost:4000/posts/Embracing-The-Full-Self/</id>
     <content type="text/html" src="http://localhost:4000/posts/Embracing-The-Full-Self/" />
@@ -62,7 +62,33 @@
     
   
 
-  <summary>I wrote and delivered this speech for a Toastmasters meeting theme: Embracing the Full Self</summary>
+  <summary>This is one of my Toastmasters speeches, crafted for the meeting theme Embracing Your Full Self. I explore what it means to fully accept every aspect of who I am, sharing a personal narrative that reflects this journey.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Reflections on The Little Prince</title>
+    <link href="http://localhost:4000/posts/Reflections-on-the-little-prince/" rel="alternate" type="text/html" title="Reflections on The Little Prince" />
+    <published>2025-03-16T11:42:43+01:00</published>
+  
+    <updated>2025-03-16T11:42:43+01:00</updated>
+  
+    <id>http://localhost:4000/posts/Reflections-on-the-little-prince/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Reflections-on-the-little-prince/" />
+    <author>
+      <name>Gorazd</name>
+    </author>
+
+  
+    
+    <category term="Essay" />
+    
+    <category term="About-me" />
+    
+  
+
+  <summary>Several people have told me that The Little Prince is their favorite book. After reading it, I found it lacking in depth, but I discovered meaningful insights in analyzing why it feels shallow.</summary>
 
   </entry>
 
@@ -72,7 +98,7 @@
     <link href="http://localhost:4000/posts/Icebreaker/" rel="alternate" type="text/html" title="Toastmasters: Icebreaker" />
     <published>2025-02-28T11:42:43+01:00</published>
   
-    <updated>2025-02-28T11:42:43+01:00</updated>
+    <updated>2025-10-01T22:29:27+02:00</updated>
   
     <id>http://localhost:4000/posts/Icebreaker/</id>
     <content type="text/html" src="http://localhost:4000/posts/Icebreaker/" />

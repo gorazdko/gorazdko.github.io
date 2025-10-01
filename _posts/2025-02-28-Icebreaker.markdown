@@ -4,8 +4,9 @@ title:  "Toastmasters: Icebreaker"
 date:   2025-02-28 12:42:43 +0200
 categories: [Toastmasters]
 tags: [Speech, About-me]
-description: "My speech I gave on the Toastmasters meeting. The meeting theme was: The Power of Play"
+description: "I wrote and delivered this speech for a Toastmasters meeting themed: The Power of Play."
 ---
+
 
 
 

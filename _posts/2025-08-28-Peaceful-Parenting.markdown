@@ -4,7 +4,7 @@ title:  "Peaceful Parenting"
 date:   2025-08-28 12:42:43 +0200
 categories: [Toastmasters]
 tags: [Self-help, Psychology]
-description: "My speech I gave on the Toastmasters meeting. The meeting theme was: When Normal Feels Impossible"
+description: "I wrote and delivered this speech for a Toastmasters meeting themed: When Normal Feels Impossible"
 
 ---
 

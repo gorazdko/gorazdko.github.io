@@ -3,7 +3,7 @@ layout: post
 title:  "Reflections on The Little Prince"
 date:   2025-03-16 12:42:43 +0200
 categories: [Essay, About-me]
-tags: [Review]
+tags: [Essay]
 description: "Several people have told me that The Little Prince is their favorite book. After reading it, I found it lacking in depth, but I discovered meaningful insights in analyzing why it feels shallow."
 ---
 

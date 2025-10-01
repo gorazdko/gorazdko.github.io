@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Internal Family at the Table"
+title:  "Welcoming Every Part: The Internal Family at the Table"
+date:   2025-07-28 12:42:43 +0200
+categories: [Toastmasters]
+tags: [Self-help, Psychology, Philosophy]
+description: "My speech I gave on the Toastmasters meeting. The meeting theme was: Embracing the Full Self"
 ---
 
-Toastmasters - Welcoming Every Part: The Internal Family at the Table
+
 
 Our personality is a mix of inner voices, they are our internal family, they harmonize or clash with each other. Imagine an inner table where every part of us is welcome. But what happens when a harsh critic or a self-sabotaging part tries to take over? Can these difficult parts join our dinner table without disrupting the meal?
 

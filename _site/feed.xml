@@ -1,0 +1,119 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Threaded Mind</title>
+  <subtitle>Collection of my thoughts.</subtitle>
+  <updated>2025-10-01T22:08:54+02:00</updated>
+  <author>
+    <name>Gorazd</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Gorazd </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Peaceful Parenting</title>
+    <link href="http://localhost:4000/posts/Peaceful-Parenting/" rel="alternate" type="text/html" title="Peaceful Parenting" />
+    <published>2025-08-28T12:42:43+02:00</published>
+  
+    <updated>2025-08-28T12:42:43+02:00</updated>
+  
+    <id>http://localhost:4000/posts/Peaceful-Parenting/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Peaceful-Parenting/" />
+    <author>
+      <name>Gorazd</name>
+    </author>
+
+  
+    
+    <category term="Toastmasters" />
+    
+  
+
+  <summary>My speech I gave on the Toastmasters meeting. The meeting theme was: When Normal Feels Impossible</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Welcoming Every Part: The Internal Family at the Table</title>
+    <link href="http://localhost:4000/posts/Embracing-The-Full-Self/" rel="alternate" type="text/html" title="Welcoming Every Part: The Internal Family at the Table" />
+    <published>2025-07-28T12:42:43+02:00</published>
+  
+    <updated>2025-07-28T12:42:43+02:00</updated>
+  
+    <id>http://localhost:4000/posts/Embracing-The-Full-Self/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Embracing-The-Full-Self/" />
+    <author>
+      <name>Gorazd</name>
+    </author>
+
+  
+    
+    <category term="Toastmasters" />
+    
+  
+
+  <summary>My speech I gave on the Toastmasters meeting. The meeting theme was: Embracing the Full Self</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Toastmasters: Icebreaker</title>
+    <link href="http://localhost:4000/posts/Icebreaker/" rel="alternate" type="text/html" title="Toastmasters: Icebreaker" />
+    <published>2025-02-28T11:42:43+01:00</published>
+  
+    <updated>2025-02-28T11:42:43+01:00</updated>
+  
+    <id>http://localhost:4000/posts/Icebreaker/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Icebreaker/" />
+    <author>
+      <name>Gorazd</name>
+    </author>
+
+  
+    
+    <category term="Toastmasters" />
+    
+  
+
+  <summary>My speech I gave on the Toastmasters meeting. The meeting theme was: The Power of Play</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>My Contributions to Bitcoin space</title>
+    <link href="http://localhost:4000/posts/My-Work-in-Bitcoin-space/" rel="alternate" type="text/html" title="My Contributions to Bitcoin space" />
+    <published>2020-02-28T11:42:43+01:00</published>
+  
+    <updated>2020-02-28T11:42:43+01:00</updated>
+  
+    <id>http://localhost:4000/posts/My-Work-in-Bitcoin-space/</id>
+    <content type="text/html" src="http://localhost:4000/posts/My-Work-in-Bitcoin-space/" />
+    <author>
+      <name>Gorazd</name>
+    </author>
+
+  
+    
+    <category term="Tech" />
+    
+  
+
+  <summary>Incomplete list of my contributions to Bitcoin space</summary>
+
+  </entry>
+
+</feed>
+
+

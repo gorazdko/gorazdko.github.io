@@ -24,6 +24,6 @@ Yet despite this ideal, children remain society’s most vulnerable members and 
 
 Even more common now is verbal abuse—yelling, shaming, and harsh words—that quietly harm a child’s sense of self worth. Furthermore, society keeps stealing from children in the form of national debt. Every child in the west is now born with a million dollars in debt. It is important to undersatnd that, Society is just an effect of parenting. If we truly cared about children as we claim, we wouldn’t be running up credit card debts in their names without their consent.
 
-Anyway, this systemic failure then pushes many young adults into drug addiction, promiscuity, isolation, and alcohol use—all forms of self-medication for people suffering from child abuse. These people don’t turn to addiction to feel good; but to feel normal because normal feels impossible.
+This systemic failure then pushes many young adults into drug addiction, promiscuity, isolation, and alcohol use—all forms of self-medication for people suffering from child abuse. These people don’t turn to addiction to feel good; but to feel normal because normal feels impossible.
 
 Ultimately, If we raised children peacefully, many social dysfunctions would mostly disappear. Science is clear: peaceful upbringing results in significantly less criminality, promiscuity, and mental disorders. Teaching children peacefully also diminishes their drive to control others, helping us slowly move away from a society held together by force and fear. Remember, it all starts in the home.
